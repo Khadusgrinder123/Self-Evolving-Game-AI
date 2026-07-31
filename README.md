@@ -117,15 +117,6 @@ File descriptions (use these captions in the README or next to each gif):
 - gifs/how_to_reset_weights.gif - Shows how to reset the weights from the menu
 - gifs/etlin_169_ratio.png - A 16:9 preview image; edit the width or replace this file to match your device
 
-Markdown examples you can paste or tweak:
-
-Inline hero trio:
-```html
-<p align="center">
-  <img src="gifs/base_gen.gif" alt="Base generation gameplay" width="360" />
-  <img src="gifs/training_gen.gif" alt="Training progress" width="360" />
-  <img src="gifs/final_gen.gif" alt="Final generation playing" width="360" />
-</p>
 
 DW = display width
 DH = display height
