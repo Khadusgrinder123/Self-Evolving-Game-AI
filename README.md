@@ -8,6 +8,7 @@
 
 <p align="center">
   <!-- Hero GIFs: edit filenames or sizes as needed -->
+  
 - BASE GENERATION
   <img src="gifs/base_gen.gif" alt="Base generation gameplay" width="360" />
 
