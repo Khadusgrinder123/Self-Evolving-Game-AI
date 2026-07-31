@@ -1,5 +1,6 @@
 # Self-Evolving Game AI
 
+
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyPI - pygame](https://img.shields.io/badge/pygame-required-orange.svg)](https://www.pygame.org/news)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -7,8 +8,16 @@
 
 <p align="center">
   <!-- Hero GIFs: edit filenames or sizes as needed -->
+- BASE GENERATION
   <img src="gifs/base_gen.gif" alt="Base generation gameplay" width="360" />
+
+if you want to play and improve through base gen you can do that,
+but if you want to train from scratch delete the base weights.
+
+- TRAINING GENERATION (from scratch)
   <img src="gifs/training_gen.gif" alt="Training progress" width="360" />
+
+- 20th generation (from scratch)
   <img src="gifs/final_gen.gif" alt="Final generation playing" width="360" />
 </p>
 
