@@ -113,17 +113,7 @@ There is a "RESET WEIGHTS" item on the main menu. Activating it deletes `best_br
 
 ---
 
-## Visuals and recommended placement for gifs
-
-Place the following files inside the `gifs/` folder (they are already there according to your note). Add the hero GIFs at the top of the README (as in this file) so visitors see motion first.
-
-File descriptions (use these captions in the README or next to each gif):
-- gifs/base_gen.gif - How the base generation AI plays
-- gifs/final_gen.gif - After deleting base weights, the 20th generation plays like this
-- gifs/training_gen.gif - Training from scratch for several generations
-- gifs/how_to_reset_weights.gif - Shows how to reset the weights from the menu
-- gifs/etlin_169_ratio.png - A 16:9 preview image; edit the width or replace this file to match your device
-
+## Reset weights
 
 DW = display width
 DH = display height
