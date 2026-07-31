@@ -91,6 +91,13 @@ There is a "RESET WEIGHTS" item on the main menu. Activating it deletes `best_br
 
 ---
 
+## During Training
+
+- From scratch - this is high risk high reward game, as you can get good or bad weight.
+- Training on Base weights - this is stable and safe, but may have lower potential than training from scratch.
+- When The Change Happens - during initial 5 generation any weight will show not good results, you at least need 12-15th to actually see changes, by 20th the changes in model will be easily visible.
+
+---
 ## Repo structure (suggested)
 
 - MainGamePC.py - main game executable and AI loop
